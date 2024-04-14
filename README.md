@@ -1,6 +1,3 @@
-Here's a README file for your GitHub project:
-
----
 
 # Supermarket Sales Analysis
 
@@ -67,5 +64,14 @@ The script will perform data analysis, preprocessing, model training, and sales 
 This project has been done for learning purposes only.
 
 ---
+
+## Output
+<img width="596" alt="Screenshot 2024-04-13 at 10 15 56 PM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/feb3d40c-0578-4ae9-836e-5f2240d505c9">
+<img width="578" alt="Screenshot 2024-04-13 at 10 17 37 PM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/2f405567-5c3d-452c-b0f6-b3e565f61c5b">
+<img width="588" alt="Screenshot 2024-04-13 at 11 17 10 PM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/894fa56b-87e4-4bea-b58e-df4167fba11e">
+<img width="672" alt="Screenshot 2024-04-14 at 1 06 27 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/f320c6df-7aae-4d9e-9a89-338cfe721ec7">
+<img width="581" alt="Screenshot 2024-04-14 at 2 28 53 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/2c97a082-1fba-4f82-83bd-4b232adf1c0b">
+<img width="579" alt="Screenshot 2024-04-14 at 2 32 02 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/50496508-abff-4699-8561-517ac3792a56">
+<img width="434" alt="Screenshot 2024-04-14 at 2 56 24 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/9dda450a-9f45-45fb-8686-f9e74b4a8d67">
 
 Feel free to customize this README file according to your project's specific details and requirements. If you have any questions or need further assistance, don't hesitate to ask!
