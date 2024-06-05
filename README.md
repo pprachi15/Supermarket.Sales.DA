@@ -74,4 +74,4 @@ This project has been done for learning purposes only.
 <img width="579" alt="Screenshot 2024-04-14 at 2 32 02 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/50496508-abff-4699-8561-517ac3792a56">
 <img width="434" alt="Screenshot 2024-04-14 at 2 56 24 AM" src="https://github.com/pprachi15/Supermarket.Sales.DA/assets/116032314/9dda450a-9f45-45fb-8686-f9e74b4a8d67">
 
-Feel free to customize this README file according to your project's specific details and requirements. If you have any questions or need further assistance, don't hesitate to ask!
+😄 Happy Coding!!!
